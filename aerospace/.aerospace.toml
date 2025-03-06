@@ -7,11 +7,11 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
 
 # Simple monitor workspace assignments
 [workspace-to-monitor-force-assignment]
-'1' = ['main']          # Terminal (WezTerm)
-'2' = ['main']          # Browser (Chrome)
-'3' = ['main']          # Communication (Slack)
-'4' = ['secondary']     # Secondary monitor workspace 1
-'5' = ['secondary']     # Secondary monitor workspace 2
+'1' = ['main']          
+'2' = ['main']         
+'3' = ['main']          
+'4' = ['secondary']     
+'5' = ['secondary']     
 
 
 
